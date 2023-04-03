@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Emile e tenho formação técnica em Análise e Desenvolvimento de sistemas pela Etec. Sou apaixonada por qualquer tarefa que me permita explorar minha criatividade, busco trabalhar com inovação, testar meus limites e evoluir sempre. Meu foco é o desenvolvimento front-end com aptidão em HTML5, CSS, e JavaScript. Sempre aberta aaprender algo novo e me divertir no que faço.
+Olá, me chamo Emile e tenho formação técnica em Análise e Desenvolvimento de sistemas pela Etec. Sou apaixonada por qualquer tarefa que me permita explorar minha criatividade, busco trabalhar com inovação, testar meus limites e evoluir sempre. Meu foco é o desenvolvimento front-end com aptidão em HTML5, CSS, e JavaScript. Sempre aberta a aprender algo novo e me divertir no que faço.
 
 
 ## 🌐 Socials:
