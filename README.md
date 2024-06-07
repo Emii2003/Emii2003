@@ -1,6 +1,6 @@
 # 💫 About Me:
-Olá, me chamo Emile e tenho formação técnica em Análise e Desenvolvimento de sistemas pela Etec. Meu foco é o desenvolvimento front-end com aptidão em HTML5, CSS, e JavaScript.
-
+Uma estudante de TI :)
+Amo JavasCript, React, Python e café 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emile-moura-maia-827a8624a/) 
