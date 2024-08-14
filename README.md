@@ -1,7 +1,6 @@
 # 💫 About Me:
-Uma estudante de TI :)
-Amo JavasCript, React, Python e café 
-
+Uma estudante de TI
+Minha linguagem de programação favorita é o Javascript, afinal é ela que paga minhas contas. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emile-moura-maia-827a8624a/) 
 
